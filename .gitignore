@@ -1,0 +1,9 @@
+**/obj
+**/bin
+*.suo
+*.user
+.nuget
+*.nuspec
+.idea
+*.nupkg
+*.exe
